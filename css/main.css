@@ -61,3 +61,7 @@ body {
   right: 58%;
   top: -10px;
 }
+
+.banner:hover .robot-brain {
+  top: 2%;
+}
