@@ -15,14 +15,17 @@ body {
 
 .banner {
   background-color: #2b3851;
+  padding-top: 50px;
 }
 
 .robot {
   width: 320px;
+  margin-top: 0 auto;
 }
 
 .robot-body {
   width: 320px;
+  margin: 0 auto;
 }
 
 .robot-brain {
